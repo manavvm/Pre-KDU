@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+    background-color:rgb(123, 230, 230);
+  }
+  
+  #counter {
+    font-size: 100px;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    font-size: 25px;
+    padding: 10px 20px;
+    margin: 0 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #ddd;
+  }
+  
